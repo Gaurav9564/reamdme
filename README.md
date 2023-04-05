@@ -1,5 +1,5 @@
 
-<p align="center"><img width="100%" src="HRAnalyticsEmployeeAttrition-master/Employee Attrition And Performance Analysis 5555.png" /></p>
+<p align="center"><img width="100%" src="Employee Attrition And Performance Analysis 5555.png" /></p>
 
 --------------------------------------------------------------------------------
 
